@@ -12,8 +12,8 @@
 - Windows Shell is simple shell that provides API for creating, viewing, manipulating and finding files and directories in the File System.
 - It provides user-friendly API and easy navigation.
 ---
-<img src = "..\assets\LoggedOut.png" width = 400> 
+<img src = "..\assets\Logged Out.png" width = 400> 
 
 ---
 
-<img src = "..\assets\LoggedIn.png" width = 400>
+<img src = "..\assets\Logged In.png" width = 400>
